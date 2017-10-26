@@ -1,6 +1,11 @@
 # XClarity Client
 
+[![Coverage Status](https://coveralls.io/repos/github/lenovo/xclarity_client/badge.svg?branch=master)](https://coveralls.io/github/lenovo/xclarity_client?branch=master)
+[![Code Climate](https://codeclimate.com/github/lenovo/xclarity_client.png)](https://codeclimate.com/github/xclarity_client)
 [![Build Status](https://travis-ci.org/lenovo/xclarity_client.svg)](https://travis-ci.org/lenovo/xclarity_client)
+
+
+[![Build history for master branch](https://buildstats.info/travisci/chart/lenovo/xclarity_client?branch=master&buildCount=20)](https://travis-ci.org/lenovo/xclarity_client/branches)
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/xclarity_client`. To experiment with that code, run `bin/console` for an interactive prompt.
 

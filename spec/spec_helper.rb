@@ -3,6 +3,8 @@ require 'xclarity_client'
 require 'apib/mock_server'
 require 'webmock/rspec'
 require 'faker'
+require 'coveralls'
+Coveralls.wear!
 
 base_url = 'https://example.com'
 # These environment variables must be defined
